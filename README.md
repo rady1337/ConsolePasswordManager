@@ -12,6 +12,7 @@ Password Manager in the terminal
 python3.6 or higher
 colorama
 pyperclip
+sqlite3
 ```
 
 * # Installation
