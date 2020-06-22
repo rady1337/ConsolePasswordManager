@@ -14,14 +14,24 @@ colorama
 pyperclip
 ```
 
-# Installation
+* # Installation
 
-```bash
-git clone https://github.com/rady1337/ConsolePasswordManager.git
-cd ConsolePasswordManager
-pip3(or pip) install -r requirements.txt
-python3(or python) password+.py
-```
+  * ## Linux/Mac OS
+
+  ```bash
+  git clone https://github.com/rady1337/ConsolePasswordManager.git
+  cd ConsolePasswordManager
+  pip3 install -r requirements.txt
+  python3 password+.py
+  ```
+  
+  * ## Windows
+  ```bash
+  git clone https://github.com/rady1337/ConsolePasswordManager.git
+  cd ConsolePasswordManager
+  pip install -r requirements.txt
+  python password+.py
+  ```
 
 # Usage
 
