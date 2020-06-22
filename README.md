@@ -2,7 +2,7 @@
 Password Manager in the terminal
 
 
-This is a console password manager that encrypts passwords using the Caesar Cipher.
+### This is a console password manager that encrypts passwords using the Caesar Cipher.
 To enter the control panel you need to enter your password, and at the first start you will enter a new password to enter.
 (This password manager uses a SQLite database.)
 
